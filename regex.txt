@@ -6,3 +6,10 @@ References:
  Footnotes
  \{([^}]+)}
  <note type="crossReference">$1</note>
+
+<div type="chapter" osisID="Luku \d+">
+(\s+)<title>([^<]+)</title>
+
+<div type="chapter" osisID="$2">
+ $1<title>$2</title>
+

@@ -48,8 +48,8 @@
                 <item>Luku 32: Viimeinen tuomio</item>
             </list>
         </div>
-        <div type="chapter" osisID="Luku 1">
-            <title>Luku 1: Raamattu</title>
+        <div type="chapter" osisID="Luku 1 Raamattu">
+           <title>Luku 1: Raamattu</title>
             <p>1. Pyhät Kirjoitukset ovat ainoa riittävä, varma, ja erehtymätön perusta kaikelle pelastavalle
                 tiedolle, uskolle ja kuuliaisuudelle.
                 <note type="crossReference"><reference osisRef="2Tim.3.15-2Tim.3.17">2. Tim.
@@ -299,8 +299,8 @@
                 </note>
             </p>
         </div>
-        <div type="chapter" osisID="Luku 2">
-            <title>Luku 2: Jumala ja Pyhä Kolminaisuus</title>
+        <div type="chapter" osisID="Luku 2 Jumala ja Pyhä Kolminaisuus">
+             <title>Luku 2: Jumala ja Pyhä Kolminaisuus</title>
             <p>1. Herra meidän Jumalamme on yksi elävä ja todellinen Jumala,
                 <note type="crossReference"><reference osisRef="1Cor.8.4 1Cor.8.6">1. Kor. 8:4, 6</reference>;
                     <reference osisRef="Deut.6.4">5. Moos. 6:4</reference>
@@ -485,8 +485,8 @@
                 hänestä.
             </p>
         </div>
-        <div type="chapter" osisID="Luku 3">
-            <title>Luku 3: Jumalan säätämys</title>
+        <div type="chapter" osisID="Luku 3 Jumalan säätämys">
+             <title>Luku 3: Jumalan säätämys</title>
             <p>1. Jumala on säätänyt iankaikkisuudessa
                 <note type="crossReference"><reference osisRef="Isa.46.10">Jes. 46:10</reference>;  <reference
                         osisRef="Eph.1.11">Ef. 1:11</reference>;  <reference osisRef="Heb.6.17">Hepr.
@@ -628,8 +628,8 @@
                 </note>
             </p>
         </div>
-        <div type="chapter" osisID="Luku 4">
-            <title>Luku 4: Luominen</title>
+        <div type="chapter" osisID="Luku 4 Luominen">
+             <title>Luku 4: Luominen</title>
             <p>1. Alussa Jumala Isä, Poika ja Pyhä Henki
                 <note type="crossReference"><reference osisRef="John.1.2 John.1.3">Joh. 1:2,
                     3</reference>;  <reference osisRef="Heb.1.2">Hepr. 1:2</reference>;
@@ -690,8 +690,8 @@
                 </note>
             </p>
         </div>
-        <div type="chapter" osisID="Luku 5">
-            <title>Luku 5: Jumalan kaitselmus</title>
+        <div type="chapter" osisID="Luku 5 Jumalan kaitselmus">
+             <title>Luku 5: Jumalan kaitselmus</title>
             <p>1. Jumala, joka on kaiken hyvä Luoja, äärettömässä voimassaan ja viisaudessaan ylläpitää, johtaa,
                 järjestää ja hallitsee kaikkia luotuja, tekoja ja asioita
                 <note type="crossReference"><reference osisRef="Heb.1.3">Hepr. 1:3</reference>;  <reference
@@ -838,8 +838,8 @@
                 </note>
             </p>
         </div>
-        <div type="chapter" osisID="Luku 6">
-            <title>Luku 6: Ihmisen syntiinlankeemus, synti ja sen rangaistus</title>
+        <div type="chapter" osisID="Luku 6 Ihmisen syntiinlankeemus synti ja sen rangaistus">
+             <title>Luku 6: Ihmisen syntiinlankeemus, synti ja sen rangaistus</title>
             <p>1. Jumala loi ihmisen rehelliseksi ja täydelliseksi ja antoi hänelle vanhurskaan lain, joka olisi
                 ollut elämäksi, jos hän olisi sen pitänyt. Hän uhkasi ihmistä kuolemalla lain rikkomisesta,
                 <note type="crossReference">
@@ -932,8 +932,8 @@
                 </note>
             </p>
         </div>
-        <div type="chapter" osisID="Luku 7">
-            <title>Luku 7: Jumalan liitto</title>
+        <div type="chapter" osisID="Luku 7 Jumalan liitto">
+             <title>Luku 7: Jumalan liitto</title>
             <p>1. Järjelliset luodut ovat kuuliaisuuden velassa Jumalalle heidän Luojanaan. Jumalan ja luodun
                 välinen etäisyys on kuitenkin niin suuri, etteivät he olisi koskaan saavuttaneet elämän palkintoa,
                 ellei Jumala olisi itse vapaaehtoisesti laskeutunut ihmisten puoleen ja nähnyt hyväksi ilmaista
@@ -995,8 +995,8 @@
                 </note>
             </p>
         </div>
-        <div type="chapter" osisID="Luku 8">
-            <title>Luku 8: Kristus välimiehenä</title>
+        <div type="chapter" osisID="Luku 8 Kristus välimiehenä">
+             <title>Luku 8: Kristus välimiehenä</title>
             <p>1. Jumala näki hyväksi iankaikkisen tarkoituksensa mukaan valita ja asettaa Herran Jeesuksen, itsensä
                 ja ainutsyntyisen Poikansa välillä tehdyn liiton mukaan, välittäjäksi Jumalan ja ihmisen
                 välille.
@@ -1291,8 +1291,8 @@
                 </note>
             </p>
         </div>
-        <div type="chapter" osisID="Luku 9">
-            <title>Luku 9: Vapaa tahto</title>
+        <div type="chapter" osisID="Luku 9 Vapaa tahto">
+             <title>Luku 9: Vapaa tahto</title>
             <p>1. Jumala on varustanut ihmisen tahdon sellaisella luonnollisella vapaudella ja kyvyllä toimia
                 valintojen mukaan, ettei hyvään tai pahaan ole pakotettu tai siihen määrätty luonnollisen
                 välttämättömyyden vuoksi.
@@ -1357,8 +1357,8 @@
                 </note>
             </p>
         </div>
-        <div type="chapter" osisID="Luku 10">
-            <title>Luku 10: Vaikuttava kutsu</title>
+        <div type="chapter" osisID="Luku 10 Vaikuttava kutsu">
+             <title>Luku 10: Vaikuttava kutsu</title>
             <p>1. Kaikki ne, jotka Jumala on ennaltamäärännyt elämään, hän näkee hyväksi – säätämänään ja
                 hyväksymänään aikana – vaikuttavasti kutsua
                 <note type="crossReference"><reference osisRef="Rom.8.30">Room. 8:30</reference>;  <reference
@@ -1452,8 +1452,8 @@
                 </note>
             </p>
         </div>
-        <div type="chapter" osisID="Luku 11">
-            <title>Luku 11: Vanhurskauttaminen</title>
+        <div type="chapter" osisID="Luku 11 Vanhurskauttaminen">
+             <title>Luku 11: Vanhurskauttaminen</title>
             <p>1. Ne jotka Jumala vaikuttavasti kutsuu, hän myös vapaasti vanhurskauttaa.
                 <note type="crossReference"><reference osisRef="Rom.3.24">Room. 3:24</reference>;
                     <reference osisRef="Rom.8.30">8:30</reference>
@@ -1569,8 +1569,8 @@
                 </note>
             </p>
         </div>
-        <div type="chapter" osisID="Luku 12">
-            <title>Luku 12: Lapseksi ottaminen</title>
+        <div type="chapter" osisID="Luku 12 Lapseksi ottaminen">
+             <title>Luku 12: Lapseksi ottaminen</title>
             <p>1. Jumala antaa kaikki vanhurskaat ainoalle Pojalleen Jeesukselle Kristukselle hänen tähtensä, niin
                 että hän tekee heistä osallisia lapseksiottamisen armosta.
                 <note type="crossReference"><reference osisRef="Eph.1.5">Ef. 1:5</reference>;
@@ -1639,8 +1639,8 @@
                 </note>
             </p>
         </div>
-        <div type="chapter" osisID="Luku 13">
-            <title>Luku 13: Pyhitys</title>
+        <div type="chapter" osisID="Luku 13 Pyhitys">
+             <title>Luku 13: Pyhitys</title>
             <p>1. Niihin, jotka on liitetty Kristukseen, vaikuttavasti kutsuttuina ja uudestisyntyneinä, on luotu
                 uusi sydän ja henki Kristuksen kuoleman ja ylösnousemuksen ansiosta. He ovat myös pyhitetyt,
                 todellisesti ja henkilökohtaisesti
@@ -1713,8 +1713,8 @@
                 </note>
             </p>
         </div>
-        <div type="chapter" osisID="Luku 14">
-            <title>Luku 14: Pelastava usko</title>
+        <div type="chapter" osisID="Luku 14 Pelastava usko">
+             <title>Luku 14: Pelastava usko</title>
             <p>1. Uskon armo, jonka kautta valitut voivat uskoa sielujensa pelastukseen, on Kristuksen Hengen työtä
                 heidän sydämissään.
                 <note type="crossReference"><reference osisRef="2Cor.4.13">2. Kor. 4:13</reference>;
@@ -1805,8 +1805,8 @@
                 </note>
             </p>
         </div>
-        <div type="chapter" osisID="Luku 15">
-            <title>Luku 15: Katumus elämän ja pelastuksen saamiseksi</title>
+        <div type="chapter" osisID="Luku 15 Katumus elämän ja pelastuksen saamiseksi">
+             <title>Luku 15: Katumus elämän ja pelastuksen saamiseksi</title>
             <p>1. Jotkut valituista tulevat käännytetyiksi nuoruusvuosiensa jälkeen, elettyään luonnollisessa<note
                     type="crossReference">ilman
                 Henkeä
@@ -1870,8 +1870,8 @@
                 jatkuvan saarnaamisen välttämättömäksi.
             </p>
         </div>
-        <div type="chapter" osisID="Luku 16">
-            <title>Luku 16: Hyvät teot</title>
+        <div type="chapter" osisID="Luku 16 Hyvät teot">
+             <title>Luku 16: Hyvät teot</title>
             <p>1. Hyviä tekoja ovat vain ne, jotka Jumala on käskenyt tekemään pyhässä sanassaan.
                 <note type="crossReference"><reference osisRef="Mic.6.8">Miika
                     6:8</reference>;
@@ -2027,8 +2027,8 @@
                 </note>
             </p>
         </div>
-        <div type="chapter" osisID="Luku 17">
-            <title>Luku 17: Pyhien kestävyys</title>
+        <div type="chapter" osisID="Luku 17 Pyhien kestävyys">
+             <title>Luku 17: Pyhien kestävyys</title>
             <p>1. Ne, jotka Jumala on hyväksynyt rakastetussa Pojassaan ja jotka hänen Henkensä on vaikuttavasti
                 kutsunut ja pyhittänyt, ja joille on annettu hänen valittujensa kallisarvoinen usko, eivät voi
                 täysin tai lopullisesti langeta pois armon tilasta. He säilyvät varmasti siinä loppuun asti ja
@@ -2126,8 +2126,8 @@
                 </note>
             </p>
         </div>
-        <div type="chapter" osisID="Luku 18">
-            <title>Luku 18: Armon ja pelastuksen varmuus</title>
+        <div type="chapter" osisID="Luku 18 Armon ja pelastuksen varmuus">
+             <title>Luku 18: Armon ja pelastuksen varmuus</title>
             <p>1. Ne joiden usko kestää vain hetken ja muut uudestisyntymättömät voivat pettää itseään väärillä
                 toiveilla ja lihallisella ylimielisyydellä, luullen olevansa Jumalan suosion ja pelastuksen
                 piirissä. Tämänkaltaiset toiveet kuitenkin tuhoutuvat.
@@ -2255,8 +2255,8 @@
                 </note>
             </p>
         </div>
-        <div type="chapter" osisID="Luku 19">
-            <title>Luku 19: Jumalan laki</title>
+        <div type="chapter" osisID="Luku 19 Jumalan laki">
+             <title>Luku 19: Jumalan laki</title>
             <p>1. Jumala antoi Aadamille universaalin kuuliaisuuden lain kirjoitettuna hänen sydämeensä, ja
                 erityisen käskyn olla syömättä hyvän ja pahan tiedon puun hedelmää.
                 <note type="crossReference"><reference osisRef="Gen.1.27">1. Moos. 1:27</reference>;
@@ -2384,8 +2384,8 @@
                 </note>
             </p>
         </div>
-        <div type="chapter" osisID="Luku 20">
-            <title>Luku 20: Evankeliumi ja sen armon laajuus</title>
+        <div type="chapter" osisID="Luku 20 Evankeliumi ja sen armon laajuus">
+             <title>Luku 20: Evankeliumi ja sen armon laajuus</title>
             <p>1. Koska synti rikkoi tekojen liiton ja se oli kykenemätön antamaan elämän, Jumalaa miellytti
                 julistaa lupausta Kristuksesta, naisen siementä, keinona kutsua valitut ja tuottaa heissä usko ja
                 katumus.
@@ -2457,8 +2457,8 @@
                 </note>
             </p>
         </div>
-        <div type="chapter" osisID="Luku 21">
-            <title>Luku 21: Kristillinen vapaus ja omantunnonvapaus</title>
+        <div type="chapter" osisID="Luku 21 Kristillinen vapaus ja omantunnonvapaus">
+             <title>Luku 21: Kristillinen vapaus ja omantunnonvapaus</title>
             <p>1. Se vapaus, jonka Kristus on hankkinut uskoville evankeliumin aikana, on vapautta synnin
                 syyllisyydestä, Jumalan tuomitsevasta vihasta ja lain kirouksesta ja ankaruudesta.
                 <note type="crossReference">
@@ -2562,8 +2562,8 @@
                 </note>
             </p>
         </div>
-        <div type="chapter" osisID="Luku 22">
-            <title>Luku 22: Jumalanpalvelus ja sapatti</title>
+        <div type="chapter" osisID="Luku 22 Jumalanpalvelus ja sapatti">
+             <title>Luku 22: Jumalanpalvelus ja sapatti</title>
             <p>1. Luonnon valo osoittaa, että on olemassa Jumala, jolla on kaiken kattava herruus ja valta. Jumala
                 on oikeudenmukainen, hyvä ja tekee hyvää kaikille. Siksi häntä on pelättävä, rakastettava ja
                 ylistettävä, häntä on huudettava avuksi, häneen on luotettava ja häntä on palveltava koko sydämellä
@@ -2750,8 +2750,8 @@
                 </note>
             </p>
         </div>
-        <div type="chapter" osisID="Luku 23">
-            <title>Luku 23: Jumalan lain sallimat valat ja uskonnolliset lupaukset</title>
+        <div type="chapter" osisID="Luku 23 Jumalan lain sallimat valat ja uskonnolliset lupaukset">
+             <title>Luku 23: Jumalan lain sallimat valat ja uskonnolliset lupaukset</title>
             <p>1. Jumalan lain sallima vala on osa Jumalan palvelemista, jossa ihminen vannoo totuudessa,
                 vanhurskaudessa ja tuomiossa. Hän juhlallisesti kutsuu Jumalan todistamaan sitä mitä hän vannoo
                 <note type="crossReference"><reference osisRef="Exod.20.7">2.
@@ -2823,8 +2823,8 @@
                 </note>
             </p>
         </div>
-        <div type="chapter" osisID="Luku 24">
-            <title>Luku 24: Maallinen esivalta</title>
+        <div type="chapter" osisID="Luku 24 Maallinen esivalta">
+             <title>Luku 24: Maallinen esivalta</title>
             <p>1. Jumala, koko maailman ylin herra ja kuningas, on määrännyt maallisen esivallan itselleen
                 alamaiseksi ja ihmisten yläpuolelle. Esivalta toimii Jumalan kunniaksi ja yhteiseksi hyväksi. Tätä
                 tarkoitusta varten Jumala on varustanut esivallan miekalla, jotta se voi puolustaa ja rohkaista
@@ -2862,8 +2862,8 @@
                 </note>
             </p>
         </div>
-        <div type="chapter" osisID="Luku 25">
-            <title>Luku 25: Avioliitto</title>
+        <div type="chapter" osisID="Luku 25 Avioliitto">
+             <title>Luku 25: Avioliitto</title>
             <p>1. Avioliitto on yhden miehen ja yhden naisen välinen liitto. Miehen ei ole laillista pitää enempää
                 kuin yhtä vaimoa eikä yhdellä naisella ole oikeutta pitää kuin yhtä aviomiestä
                 samanaikaisesti.
@@ -2919,8 +2919,8 @@
                 </note>
             </p>
         </div>
-        <div type="chapter" osisID="Luku 26">
-            <title>Luku 26: Seurakunta</title>
+        <div type="chapter" osisID="Luku 26 Seurakunta">
+             <title>Luku 26: Seurakunta</title>
             <p>1. Katolista tai universaalia seurakuntaa voidaan kutsua näkymättömäksi seurakunnaksi, koska se on
                 synnytetty Hengen sisäisestä työstä ja armon totuudesta. Se koostuu valittujen joukosta, jotka
                 olivat, ovat ja tulevat kootuksi yhteen Kristuksen, heidän päänsä, alleen. Seurakunta on morsian,
@@ -3156,8 +3156,8 @@
                 </note>
             </p>
         </div>
-        <div type="chapter" osisID="Luku 27">
-            <title>Luku 27: Pyhien yhteys</title>
+        <div type="chapter" osisID="Luku 27 Pyhien yhteys">
+             <title>Luku 27: Pyhien yhteys</title>
             <p>1. Kaikilla Kristukseen yhdistyneillä pyhillä on yhteys hänen kanssaan hänen armossaan,
                 kärsimyksessään, kuolemassaan, ylösnousemuksessaan ja kunniassaan.
                 <note type="crossReference"><reference osisRef="1John.1.3">1. Joh. 1:3</reference>;  <reference
@@ -3216,8 +3216,8 @@
                 </note>
             </p>
         </div>
-        <div type="chapter" osisID="Luku 28">
-            <title>Luku 28: Kaste ja Herran ehtoollinen</title>
+        <div type="chapter" osisID="Luku 28 Kaste ja Herran ehtoollinen">
+             <title>Luku 28: Kaste ja Herran ehtoollinen</title>
             <p>1. Kaste ja Herran ehtoollinen ovat selkeästi säädettyjä ja oleellisen tärkeitä toimituksia, jotka
                 Herra Jeesus, ainoa lainsäätäjä, on suvereenisti asettanut. Niitä tullaan jatkamaan hänen
                 seurakunnassaan tämän maailmanajan loppuun saakka.
@@ -3379,8 +3379,8 @@
                 </note>
             </p>
         </div>
-        <div type="chapter" osisID="Luku 31">
-            <title>Luku 31: Ihmisten tila kuoleman jälkeen ja kuolleiden ylösnousemus</title>
+        <div type="chapter" osisID="Luku 31 Ihmisten tila kuoleman jälkeen ja kuolleiden ylösnousemus">
+             <title>Luku 31: Ihmisten tila kuoleman jälkeen ja kuolleiden ylösnousemus</title>
             <p>1. Kuoleman jälkeen ihmisruumis palautuu tomuksi ja mätänee.
                 <note type="crossReference"><reference osisRef="Gen.3.19">1. Moos. 3:19</reference>;
                     <reference osisRef="Acts.13.36">Ap.t.
@@ -3438,8 +3438,8 @@
                 </note>
             </p>
         </div>
-        <div type="chapter" osisID="Luku 32">
-            <title>Luku 32: Viimeinen tuomio</title>
+        <div type="chapter" osisID="Luku 32 Viimeinen tuomio">
+             <title>Luku 32: Viimeinen tuomio</title>
             <p>1. Jumala on nimennyt päivän, jolloin hän tuomitsee maailman Jeesuksen Kristuksen
                 vanhurskaudessa.
                 <note type="crossReference"><reference osisRef="Acts.17.31">Ap.t. 17:31</reference>;
