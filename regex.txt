@@ -1,0 +1,8 @@
+References:
+
+\[([^]]+)]\(([^\)]+)\)
+ <reference osisRef="$2">$1</reference>
+
+ Footnotes
+ \{([^}]+)}
+ <note type="crossReference">$1</note>
