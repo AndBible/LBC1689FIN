@@ -2,7 +2,7 @@
 
 OSIS XML source & Sword module
 
-## Read book [here](https://andbible.github.io/LBCF1689FIN/html/)!
+## Available via [AndBible](https://play.google.com/store/apps/details?id=net.bible.android.activity). Read book in browser [here](https://andbible.github.io/LBCF1689FIN/html/)!
 
 ## Building:
 
