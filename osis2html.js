@@ -85,7 +85,7 @@ Lähdekoodit ja jakelulupatiedot <a href="https://github.com/AndBible/LBCF1689FI
         const idx = fileNamesList.findIndex(v => v === osisID);
         const prev = filenames.get(fileNamesList[idx-1]);
         const next = filenames.get(fileNamesList[idx+1]);
-        const html = new JSDOM(`<div class="nav"><span class="prev"><a href="${prev}">&lt;</a></span><span class="index"><a href="index.html">Sisällys</a></span><span class="next"><a href="${next}">&gt;</a></span></div>`);
+        const html = new JSDOM(`<div class="nav"><span class="prev"><a href="${prev}">&larr;</a></span><span class="index"><a href="index.html">Sisällys</a></span><span class="next"><a href="${next}">&rarr;</a></span></div>`);
         const htmlDoc = html.window.document;
         htmlDoc.documentElement.appendChild(chap);
         htmlDoc.documentElement.appendChild(getFooter());
