@@ -15,3 +15,6 @@ References:
 
 ([a-zA-ZäöÄÖ.,])(\s+)<note
 $1<note
+
+^ +([^\n\<]+)
+<p>$1</p>
