@@ -35,6 +35,9 @@ body {
 }
 
 .footer {
+    max-width: 80%;
+    padding-top: 50px;
+    padding-bottom: 50px;
     text-align: center;
     font-size: 70%;
 }
