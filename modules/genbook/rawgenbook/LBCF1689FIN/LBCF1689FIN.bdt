@@ -542,42 +542,6 @@
                 <item>Westin, Gunnar 1975 Vapaakristillisyyden historia. Tikkurila: Ristin Voitto.</item>
             </list>
         
-            <title>Sisällysluettelo</title>
-            <list>
-                <item>Luku 1: Raamattu</item>
-                <item>Luku 2: Jumala ja Pyhä Kolminaisuus</item>
-                <item>Luku 3: Jumalan säätämys</item>
-                <item>Luku 4: Luominen</item>
-                <item>Luku 5: Jumalan kaitselmus</item>
-                <item>Luku 6: Ihmisen syntiinlankeemus, synti ja sen rangaistus</item>
-                <item>Luku 7: Jumalan liitto</item>
-                <item>Luku 8: Kristus välimiehenä</item>
-                <item>Luku 9: Vapaa tahto</item>
-                <item>Luku 10: Vaikuttava kutsu</item>
-                <item>Luku 11: Vanhurskauttaminen</item>
-                <item>Luku 12: Lapseksi ottaminen</item>
-                <item>Luku 13: Pyhitys</item>
-                <item>Luku 14: Pelastava usko</item>
-                <item>Luku 15: Katumus elämän ja pelastuksen saamiseksi</item>
-                <item>Luku 16: Hyvät teot</item>
-                <item>Luku 17: Pyhien kestävyys</item>
-                <item>Luku 18: Armon ja pelastuksen varmuus</item>
-                <item>Luku 19: Jumalan laki</item>
-                <item>Luku 20: Evankeliumi ja sen armon laajuus</item>
-                <item>Luku 21: Kristillinen vapaus ja omantunnonvapaus</item>
-                <item>Luku 22: Jumalanpalvelus ja sapatti</item>
-                <item>Luku 23: Sallitut valat ja uskonnolliset lupaukset</item>
-                <item>Luku 24: Maallinen esivalta</item>
-                <item>Luku 25: Avioliitto</item>
-                <item>Luku 26: Seurakunta</item>
-                <item>Luku 27: Pyhien yhteys</item>
-                <item>Luku 28: Kaste ja Herran ehtoollinen</item>
-                <item>Luku 29: Kaste</item>
-                <item>Luku 30: Herran ehtoollinen</item>
-                <item>Luku 31: Ihmisten tila kuoleman jälkeen ja kuolleiden ylösnousemus</item>
-                <item>Luku 32: Viimeinen tuomio</item>
-            </list>
-        
            <title>Luku 1: Raamattu</title>
             <p>1. Pyhät Kirjoitukset ovat ainoa riittävä, varma, ja erehtymätön perusta kaikelle pelastavalle
                 tiedolle, uskolle ja kuuliaisuudelle.<note type="crossReference"><reference osisRef="2Tim.3.15-2Tim.3.17">2. Tim.
@@ -815,8 +779,7 @@
                     <reference osisRef="Isa.48.12">Jes.
                         48:12
                     </reference>
-                </note>
-                . Hän on ääretön olemukseltaan ja täydellisyydeltään. Hänen olemustaan ei kukaan
+                </note>. Hän on ääretön olemukseltaan ja täydellisyydeltään. Hänen olemustaan ei kukaan
                 voi ymmärtää paitsi hän itse.<note type="crossReference">
                     <reference osisRef="Exod.3.14">2. Moos. 3:14</reference>
                 </note>
@@ -855,8 +818,7 @@
                     <reference osisRef="Isa.46.10">Jes.
                         46:10
                     </reference>
-                </note>
-                . Hän toimii oman kunniansa puolesta<note type="crossReference"><reference osisRef="Prov.16.4">Sananl. 16:4</reference>;
+                </note>. Hän toimii oman kunniansa puolesta<note type="crossReference"><reference osisRef="Prov.16.4">Sananl. 16:4</reference>;
                     <reference osisRef="Rom.11.36">Room.
                         11:36
                     </reference>
@@ -1238,9 +1200,9 @@
                     <reference osisRef="Matt.13.12">Matt. 13:12</reference>
                 </note>
                 Jumala asettaa heidät
-                alttiiksi tilanteille, joissa he turmeltuneina tekevät syntiä. <reference osisRef="Deut.2.30">[5.
+                alttiiksi tilanteille, joissa he turmeltuneina tekevät syntiä.<note type="crossReference"><reference osisRef="Deut.2.30">5.
                     Moos. 2:30</reference>;  <reference osisRef="2Kgs.8.12 2Kgs.8.13">2. Kun.
-                    8:12, 13</reference>] Jumala jättää heidät himoihinsa, maailman viettelyksiin ja Saatanan
+                    8:12, 13</reference></note> Jumala jättää heidät himoihinsa, maailman viettelyksiin ja Saatanan
                 vallan alle.<note type="crossReference"><reference osisRef="Ps.81.11 Ps.81.12">Ps. 81:11, 12</reference>;
                     <reference osisRef="2Thess.2.10-2Thess.2.12">2. Tess. 2:10–12</reference>
                 </note>
@@ -1301,8 +1263,8 @@
                         45, 49
                     </reference>
                 </note>
-                Näin ihmislapset nyt sikiävät synnissä<note type="crossReference">Ps.
-                    51:5](Ps.51.5);
+                Näin ihmislapset nyt sikiävät synnissä<note type="crossReference"><reference osisRef="Ps.51.5">Ps.
+                    51:5</reference>;
                     <reference osisRef="Job.14.4">Job. 14:4</reference>
                 </note>
                 ja ovat luonnostaan vihan lapsia,<note type="crossReference">
@@ -2857,7 +2819,7 @@
                 järjestettyään työasiansa ennakolta, pitävät koko päivän pyhää lepoa omista töistään, sanoistaan ja
                 ajatuksistaan sekä maallisista työtehtävistään ja harrastuksistaan.<note type="crossReference"><reference osisRef="Isa.58.13">Jes. 58:13</reference>;  <reference
                         osisRef="Neh.13.15-Neh.13.22">Neh.
-                    13:15–22</reference>]
+                    13:15–22</reference>
                 </note>
                 Sen lisäksi he osallistuvat sapatin koko keston ajan julkisiin ja
                 yksityisiin jumalanpalveluksiin sekä välttämättömyyden ja laupeuden sanelemien velvollisuuksien
@@ -3187,7 +3149,7 @@
                 Heidän täytyy myös – kaikkina mahdollisuuksina heidän asemiensa ja kutsujen rajoissa – harjoittaa
                 lahjojaan ja armojaan seurakunnan eduksi. Kun Jumalan kaitselmus nostaa uusia seurakuntia, sen
                 mukaan kun on olosuhteiden mukaan mahdollista, heidän tulee nauttia keskinäisestä yhteydestä
-                rauhaksi, rakkauden kasvuksi ja yhteiseksi rakennukseksi.<note type="crossReference">[Room. 16:1, 2]; (Rom.16.1,Rom.16.2);
+                rauhaksi, rakkauden kasvuksi ja yhteiseksi rakennukseksi.<note type="crossReference"><reference osisRef="Rom.16.1 Rom.16.2">Room. 16:1, 2</reference>;
                     <reference osisRef="3John.8-3John.10">3.
                         Joh. 8–10
                     </reference>
@@ -5418,7 +5380,7 @@
         
             <title>KYMMENEN KÄSKYÄ</title>
 
-            <p>[ 2. Moos. 20:1-17 ]</p>
+            <p>2. Moos. 20:1-17</p>
 
             <p>I. Minä olen Herra, sinun Jumalasi, joka vein sinut pois
                 Egyptin maasta, orjuuden pesästä. Älä pidä muita jumalia
