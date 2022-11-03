@@ -13,3 +13,5 @@ References:
 <div type="chapter" osisID="$2">
  $1<title>$2</title>
 
+([a-zA-ZäöÄÖ.,])(\s+)<note
+$1<note
