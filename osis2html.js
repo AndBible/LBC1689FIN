@@ -116,7 +116,9 @@ Lähdekoodit ja jakelulupatiedot <a href="https://github.com/AndBible/LBCF1689FI
         fs.writeFileSync("html/" + filename, htmlDoc.documentElement.outerHTML);
     }
 
-    const html = new JSDOM(`<h2>1689 Lontoon baptistien uskontunnustus ja baptistikatekismus vuodelta 1693</h2>
+    const bookTitle = "1689 Lontoon baptistien uskontunnustus ja baptistikatekismus vuodelta 1693"
+
+    const html = new JSDOM(`<h2>${bookTitle}</h2>
 <h3>Toim. Eelis Halmemies, Juhana Lalli, Mikko Sivonen</h3>
 <ul></ul>`);
     const htmlDoc = html.window.document;
@@ -131,7 +133,7 @@ Lähdekoodit ja jakelulupatiedot <a href="https://github.com/AndBible/LBCF1689FI
 
 
         const title = htmlDoc.createElement("title");
-        title.appendChild(htmlDoc.createTextNode("Sisällys"));
+        title.appendChild(htmlDoc.createTextNode(bookTitle));
         htmlDoc.head.appendChild(title)
         const css = htmlDoc.createElement("link");
         css.setAttribute("type", "text/css");
