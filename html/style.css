@@ -14,10 +14,14 @@
     padding: 5px;
 }
 .nav {
-    position: absolute;
-    left: 50%;
+    position: fixed;
     top: 0;
+    left: 50%;
     font-size: 20pt;
+    padding: 10px;
+    background: white;
+    border-radius: 20px;
+    opacity: 80%;
 }
 .nav a:link {
     text-decoration: none;
