@@ -19,7 +19,7 @@ function convert() {
     for(const r of doc.querySelectorAll("reference")) {
         const a = doc.createElement("a");
         a.setAttribute("href", toLink(r.getAttribute("osisRef")));
-        a.setAttribute("target", "_blank");
+        // a.setAttribute("target", "_blank");
         a.appendChild(r.firstChild);
         for(const n of Array.from(r.childNodes)) {
             n.parentNode.removeChild(n);
