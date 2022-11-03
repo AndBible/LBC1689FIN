@@ -111,6 +111,10 @@ Lähdekoodit ja jakelulupatiedot <a href="https://github.com/AndBible/LBCF1689FI
         const utf8 = htmlDoc.createElement("meta");
         utf8.setAttribute("charset","UTF-8");
         htmlDoc.head.appendChild(utf8);
+        const viewPort = htmlDoc.createElement("meta");
+        viewPort.setAttribute("name","viewport");
+        viewPort.setAttribute("content","width=device-width, initial-scale=1.0");
+        htmlDoc.head.appendChild(viewPort);
 
         //console.log({filename, cont: htmlDoc.documentElement.outerHTML});
         fs.writeFileSync("html/" + filename, htmlDoc.documentElement.outerHTML);
@@ -142,9 +146,13 @@ Lähdekoodit ja jakelulupatiedot <a href="https://github.com/AndBible/LBCF1689FI
         htmlDoc.head.appendChild(css);
         const utf8 = htmlDoc.createElement("meta");
         utf8.setAttribute("charset","UTF-8");
+
         htmlDoc.head.appendChild(utf8);
 
-        //console.log({filename, cont: htmlDoc.documentElement.outerHTML});
+        const viewPort = htmlDoc.createElement("meta");
+        viewPort.setAttribute("name","viewport");
+        viewPort.setAttribute("content","width=device-width, initial-scale=1.0");
+        htmlDoc.head.appendChild(viewPort);
     }
     htmlDoc.documentElement.appendChild(getFooter());
     fs.writeFileSync("html/index.html", htmlDoc.documentElement.outerHTML);
