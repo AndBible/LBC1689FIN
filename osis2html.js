@@ -67,6 +67,13 @@ function convert() {
     }));
     const fileNamesList = Array.from(filenames.keys());
     const toc = [];
+    function getFooter() {
+        const footerText = `<div class="footer">Kirja luettavissa kätevästi Android-laitteilla <a href="https://play.google.com/store/apps/details?id=net.bible.android.activity">AndBible -sovelluksella</a>. Lähdekoodit ja jakelulupatiedot <a href="https://github.com/AndBible/LBCF1689FIN">Githubissa</a>. © 2021 Agricola teologinen instituutti ja tekijät</div>`
+        const footer = new JSDOM(footerText);
+        return footer.window.document.body.firstChild;
+    }
+
+
     for(const chap of chapters) {
         chap.classList.add("chapter")
         const osisID = chap.getAttribute("osisID");
@@ -77,6 +84,7 @@ function convert() {
         const html = new JSDOM(`<div class="nav"><span class="prev"><a href="${prev}">&lt;</a></span><span class="index"><a href="index.html">Sisällys</a></span><span class="next"><a href="${next}">&gt;</a></span></div>`);
         const htmlDoc = html.window.document;
         htmlDoc.documentElement.appendChild(chap);
+        htmlDoc.documentElement.appendChild(getFooter());
         const title = htmlDoc.createElement("title");
         const titleText = chap.querySelector("div.title").textContent;
         toc.push({filename, titleText});
@@ -120,8 +128,9 @@ function convert() {
         htmlDoc.head.appendChild(utf8);
 
         //console.log({filename, cont: htmlDoc.documentElement.outerHTML});
-        fs.writeFileSync("html/index.html", htmlDoc.documentElement.outerHTML);
     }
+    htmlDoc.documentElement.appendChild(getFooter());
+    fs.writeFileSync("html/index.html", htmlDoc.documentElement.outerHTML);
 }
 
 convert();
