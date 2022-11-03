@@ -5438,8 +5438,9 @@
         </div>
         <div type="chapter" osisID="Katekismus ISÄ MEIDÄN RUKOUS">
             <title>ISÄ MEIDÄN -RUKOUS</title>
-            [ Matt. 6:9-13 ]
-
+            <p>
+                Matt. 6:9-13
+            </p>
             <p>Isä meidän, joka olet taivaissa!
                 Pyhitetty olkoon sinun nimesi.
                 Tulkoon sinun valtakuntasi.
@@ -5456,24 +5457,23 @@
         </div>
         <div type="chapter" osisID="Katekismus APOSTOLINEN USKONTUNNUSTUS">
             <title>APOSTOLINEN USKONTUNNUSTUS</title>
-
-
-            Minä uskon Jumalaan, Isään,
-            Kaikkivaltiaaseen, taivaan ja maan Luojaan,
-            ja Jeesukseen Kristukseen,
-            Jumalan ainoaan Poikaan, meidän Herraamme,
-            joka sikisi Pyhästä Hengestä, syntyi neitsyt Mariasta,
-            kärsi Pontius Pilatuksen aikana, ristiinnaulittiin,
-            kuoli ja haudattiin, astui alas tuonelaan,
-            nousi kolmantena päivänä kuolleista, astui ylös taivaisiin,
-            istuu Jumalan, Isän, Kaikkivaltiaan, oikealla puolella
-            ja on sieltä tuleva tuomitsemaan eläviä ja kuolleita,
-            ja Pyhään Henkeen, pyhän yhteisen seurakunnan,
-            pyhäin yhteyden, syntien anteeksiantamisen,
-            ruumiin ylösnousemisen
-            ja iankaikkisen elämän.
-            Aamen.
-
+            <p>
+                Minä uskon Jumalaan, Isään,
+                Kaikkivaltiaaseen, taivaan ja maan Luojaan,
+                ja Jeesukseen Kristukseen,
+                Jumalan ainoaan Poikaan, meidän Herraamme,
+                joka sikisi Pyhästä Hengestä, syntyi neitsyt Mariasta,
+                kärsi Pontius Pilatuksen aikana, ristiinnaulittiin,
+                kuoli ja haudattiin, astui alas tuonelaan,
+                nousi kolmantena päivänä kuolleista, astui ylös taivaisiin,
+                istuu Jumalan, Isän, Kaikkivaltiaan, oikealla puolella
+                ja on sieltä tuleva tuomitsemaan eläviä ja kuolleita,
+                ja Pyhään Henkeen, pyhän yhteisen seurakunnan,
+                pyhäin yhteyden, syntien anteeksiantamisen,
+                ruumiin ylösnousemisen
+                ja iankaikkisen elämän.
+                Aamen.
+            </p>
         </div>
         <div type="chapter" osisID="Katekismus KYMMENEN KÄSKYÄ">
             <title>KYMMENEN KÄSKYÄ</title>
@@ -5569,24 +5569,26 @@
         <div type="chapter" osisID="Katekismus YHTEINEN SYNNINTUNNUSTUS II">
             <title>YHTEINEN SYNNINTUNNUSTUS II</title>
 
-            Herra Jeesus,
-            olemme tehneet syntiä
-            lukemattomia kertoja lähimmäistämme kohtaan;
-            olemme syyllisiä ylpeyteen ja epäuskoon.
-            Syntimme saavat aikaan syytöksen Sinun edessäsi.
-            Mutta me kiitämme,
-            etteivät syntimme ole enää Sinua vastaan,
-            sillä ne ovat maksetut Kristuksessa.
-            Vapauta meidät jokaisesta syntisestä tavasta,
-            jokaisesta entisestä syntimme nautinnosta,
-            kaikesta joka pimentää armosi kirkkauden meissä,
-            kaikesta joka estää meitä nauttimasta Sinusta.
-            Aamen.
+            <p>
+                Herra Jeesus,
+                olemme tehneet syntiä
+                lukemattomia kertoja lähimmäistämme kohtaan;
+                olemme syyllisiä ylpeyteen ja epäuskoon.
+                Syntimme saavat aikaan syytöksen Sinun edessäsi.
+                Mutta me kiitämme,
+                etteivät syntimme ole enää Sinua vastaan,
+                sillä ne ovat maksetut Kristuksessa.
+                Vapauta meidät jokaisesta syntisestä tavasta,
+                jokaisesta entisestä syntimme nautinnosta,
+                kaikesta joka pimentää armosi kirkkauden meissä,
+                kaikesta joka estää meitä nauttimasta Sinusta.
+                Aamen.
+            </p>
         </div>
         <div type="chapter" osisID="Katekismus HERRAA HYVÄÄ KIITTÄKÄÄ">
             <title>HERRAA HYVÄÄ KIITTÄKÄÄ</title>
 
-            virsi 332
+            <p>Virsi 332</p>
 
             <p>Sävel: Heinrich Albert (1640)
                 Sanat: Säk. 1, 6-8 Jesper Swedberg (1694)
