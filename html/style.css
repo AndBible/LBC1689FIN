@@ -40,3 +40,9 @@ body {
     text-align: center;
     font-size: 70%;
 }
+.bold {
+    font-weight: bold;
+}
+.italic {
+    font-style: italic;
+}

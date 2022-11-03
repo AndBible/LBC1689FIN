@@ -41,6 +41,15 @@ function convert() {
         }
         l.parentNode.replaceChild(ul, l);
     }
+    for(const hi of doc.querySelectorAll("hi")) {
+        const span = doc.createElement("span");
+        span.classList.add(hi.getAttribute("type"));
+        for(const n of Array.from(hi.childNodes)) {
+            n.parentNode.removeChild(n);
+            span.appendChild(n);
+        }
+        hi.parentNode.replaceChild(span, hi);
+    }
     for(const itm of doc.querySelectorAll("item")) {
         const li = doc.createElement("li");
         for(const n of Array.from(itm.childNodes)) {
