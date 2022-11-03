@@ -95,7 +95,7 @@ function convert() {
         fs.writeFileSync("html/" + filename, htmlDoc.documentElement.outerHTML);
     }
 
-    const html = new JSDOM(`<div class='title'>Sisällys</div><ul></ul>`);
+    const html = new JSDOM(`<div class='title'>1689 Lontoon baptistien uskontunnustus ja baptistikatekismus vuodelta 1693</div><ul></ul>`);
     const htmlDoc = html.window.document;
     const ul = htmlDoc.querySelector("ul");
     for(const {filename, titleText} of toc) {
