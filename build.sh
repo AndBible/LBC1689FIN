@@ -1,2 +1,2 @@
-xml2gbs LBC1689FIN.xml modules/genbook/rawgenbook/LBC1689FIN/LBC1689FIN
-zip LBC1689FIN.zip -r modules/ mods.d/
+xml2gbs LBCF1689FIN.xml modules/genbook/rawgenbook/LBCF1689FIN/LBCF1689FIN
+zip LBCF1689FIN.zip -r modules/ mods.d/
