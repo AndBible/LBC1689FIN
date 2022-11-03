@@ -1,0 +1,31 @@
+.title {
+    font-size: 18pt;
+    font-weight: bold;
+    padding: 10px;
+}
+.note {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.prev {
+    padding: 5px;
+}
+.next {
+    padding: 5px;
+}
+.nav {
+    position: absolute;
+    left: 50%;
+    top: 0;
+    font-size: 20pt;
+}
+.nav a:link {
+    text-decoration: none;
+}
+.chapter {
+    margin: 20px;
+    margin-top: 50px;
+}
+body {
+    font-size: 16pt;
+}
