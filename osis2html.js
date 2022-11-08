@@ -1,4 +1,6 @@
-import { JSDOM } from "jsdom";
+//import { JSDOM } from "jsdom";
+import pkg from 'jsdom';
+const { JSDOM } = pkg;
 import fs from "fs";
 
 // etsi kaikki divit (chapter). Niistä tehdään omia dokumentteja.
@@ -67,7 +69,15 @@ function convert() {
         }
         n.parentNode.replaceChild(span, n);
     }
-
+    for(const dname of doc.querySelectorAll("divineName")) {
+        const span = doc.createElement("span");
+        span.classList.add("divineName");
+        for(const c of Array.from(dname.childNodes)) {
+            c.parentNode.removeChild(c);
+            span.appendChild(c);
+        }
+        dname.parentNode.replaceChild(span, dname);
+    }
     const chapters = doc.querySelectorAll('div[type="chapter"]')
 
     const filenames = new Map(Array.from(chapters).map(c => {
