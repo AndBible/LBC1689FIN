@@ -3,9 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "type": "module",
-  "scripts": {
-
-  },
+  "scripts": {},
   "devDependencies": {
     "jsdom": "~16.6.0"
   }
