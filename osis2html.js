@@ -61,12 +61,15 @@ function convert() {
         itm.parentNode.replaceChild(li, itm);
     }
     for(const n of doc.querySelectorAll("note")) {
+        const type = n.getAttribute("type");
         const span = doc.createElement("span");
+        span.classList.add(`note-${type}`);
         span.classList.add("note");
         for(const c of Array.from(n.childNodes)) {
             c.parentNode.removeChild(c);
             span.appendChild(c);
         }
+
         n.parentNode.replaceChild(span, n);
     }
     for(const dname of doc.querySelectorAll("divineName")) {

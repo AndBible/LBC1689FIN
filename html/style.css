@@ -54,3 +54,13 @@ body {
 .divineName {
     font-variant: small-caps;
 }
+
+span.note.note-explanation {
+    font-style: italic;
+}
+span.note.note-explanation::after {
+    content: ")"
+}
+span.note.note-explanation::before {
+    content: " ("
+}
